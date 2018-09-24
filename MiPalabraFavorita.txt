@@ -1,2 +1,3 @@
-Mi palabra favorita es
-Caballo 870024286
+Mi palabra favorita es 
+caballo 870024286
+torre 870143850
